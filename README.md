@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/MatheusFranciscone/projeto-calculadora/blob/master/ativ-calculadora/calculator-icon.png">
+<img src="https://github.com/MatheusFranciscone/projeto-cadastro/blob/master/cadastro/cadastro.png">
 </p>
 
 # Projeto Formulário de Cadastro
