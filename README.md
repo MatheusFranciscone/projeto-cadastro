@@ -7,13 +7,13 @@
 
 Foi proposto o desenvolvimento de um formulário de cadastro que notifica sua idade e se você é maior ou menor de idade a partir de uma MessageBox, projeto desenvolvido para o treinamento de orientação à objetos.
  
-  # O projeto foi desenvolvido através da linguagem: 
+## O projeto foi desenvolvido através da linguagem: 
  * C#
  
-## Acesse meus outros meios de contato!
+## Outros meios de contato!
 
- * ## [Instagram](https://www.instagram.com/_franciscone/)
- * ## [LinkedIn](https://www.linkedin.com/in/matheus-franciscone/)
-## Acesse também meus repositórios aqui no GitHub!
+ * _Acesse aqui meu_ [_Instagram_](https://www.instagram.com/_franciscone/);
+ * _Acesse aqui meu_ [_LinkedIn_](https://www.linkedin.com/in/matheus-franciscone/).
+ 
+## Acesse também meus outros [repositórios](https://github.com/MatheusFranciscone?tab=repositories) aqui no GitHub!
 
- * ## [Repositórios](https://github.com/MatheusFranciscone?tab=repositories)
